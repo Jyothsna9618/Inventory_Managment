@@ -1,2 +1,1 @@
-# Inventory_Managment
-Inventory Management for Business Growth( Capstone Project)
+### Inventory Management for Business Growth
