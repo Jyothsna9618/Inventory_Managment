@@ -1,6 +1,7 @@
 # Inventory Management for Business Growth
 
 Project Team:
+
 Jyothsna Abboju
 Lavanaya Manyampalli
 Sai manikanta Leela
