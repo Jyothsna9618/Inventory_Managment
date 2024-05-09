@@ -1,1 +1,1 @@
-### Inventory Management for Business Growth
+# Inventory Management for Business Growth
